@@ -1,0 +1,15 @@
+LOCU.xml is the same as all other xmls in this folderm, but the description contained within the data has been updated.
+
+Instead of having blank descriptions, it now reads as fllows:
+
+
+<InputUnits>
+	<Name>M/S</Name>
+	<Description>Velocity</Description>
+</InputUnits>
+<OutputUnits>
+	<Name>COUNTS</Name>
+	<Description>Digital counts</Description>
+</OutputUnits>
+
+**description of one of the other fields has been changed from "Acceleration in metres per second per second" to simply "acceleration"
