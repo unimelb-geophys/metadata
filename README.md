@@ -17,43 +17,43 @@ The UOM/AGOS borehole array has been given the network code BM (borehole melbour
 #### Network List: 
 
 	
-		- UM (surface network)
+#####		- UM (surface network)
 		
 		
-			Stations: 
+	Stations: 
                 
-				- CLIF
+		- CLIF
 		
-				- HODL 
+		- HODL 
 		
-				- HOLS
+		- HOLS
 		
-				- KRAN
+		- KRAN
 		
-				- LOCU
+		- LOCU
 		
-				- MELU
+		- MELU
 		
-				- MRDN
+		- MRDN
 		
-				- NARR
+		- NARR
 		
-				- OUTU
+		- OUTU
 	
-				- S88U
+		- S88U
 		
-				- SOMU
+		- SOMU
 
 	
 
 #####		- BM (borehole network)
 
 		
-			Stations:
+	Stations:
 		
-				- LOYU
+		- LOYU
 
-				- MOSU
-				- SGWU
+		- MOSU
+		- SGWU
 
-				- WILU
+		- WILU
