@@ -23,25 +23,19 @@ The UOM/AGOS borehole array has been given the network code BM (borehole melbour
 	Stations: 
                 
 		- CLIF
-		
-		- HODL 
-		
+
+		- HODL
 		- HOLS
-		
+
 		- KRAN
-		
+
 		- LOCU
-		
 		- MELU
-		
 		- MRDN
-		
 		- NARR
-		
 		- OUTU
-	
 		- S88U
-		
+
 		- SOMU
 
 	
